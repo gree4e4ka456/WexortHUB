@@ -3,7 +3,8 @@ local ImmunityList = {
   3814434536,
   598351663,
   3467634468,
-  2709550464
+  2709550464,
+  877532881
 }
 
 return ImmunityList
