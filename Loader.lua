@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/fgdergewrgegr/ftap/refs/heads/main/BarbieGirlHub"))()
+loadstring(game:HttpGet("https://github.com/gree4e4ka456/WexortHUB/blob/main/Games/FlingThingsAndPeople"))()
