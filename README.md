@@ -9,7 +9,7 @@
 **Locality** — suggested some functions and helped with protection by improving it alot.  
 
 # Known for
-The biggest hub\
+The biggest hub  
 Most advanced hub  
 Best scripters tool  
 Strongest HvH features  
